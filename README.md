@@ -29,3 +29,12 @@ MPU6050位移输出与Matlab联合（30日任务）
 **IDEA**
 驳船大师补偿平台：https://patents.google.com/patent/US9340263B2/en
 Ampelmann：https://patents.google.com/patent/EP1993902B1/en
+
+
+## 20180227
+开学第二天 研二下学期第二天
+完成日志，思考：改善日志与月度考核的形式
+**NEXT**
+719的平台（文字的东西汇报） 南京航空航天大学是不是另一个出路？
+两个专利的完成
+运动正解反解？
